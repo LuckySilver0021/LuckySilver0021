@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/> 
 
-<!--
-**LuckySilver0021/LuckySilver0021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m [**Sharan**](https://mirayatech.notion.site/Miraya-Tech-2fa175720a2080879d27c23207346acb), a software developer and fianl year graduate student from India. I like writing full stack applications, I also sometimes contribute to Open Source.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Some stuff I built:**
+- [Ask Me Anything](https://github.com/LuckySilver0021/Ask-Me-Anything) -  A Q&A platform to ask questions or give feedback anonymously.
+- [Droply](https://github.com/LuckySilver0021/droply) -  A dropbox inspired application built on first engineering principles.
+
+
+---
+
