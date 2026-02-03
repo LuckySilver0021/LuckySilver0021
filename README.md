@@ -1,6 +1,6 @@
 ### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/> 
 
-I’m [**Sharan**](https://mirayatech.notion.site/Miraya-Tech-2fa175720a2080879d27c23207346acb), a software developer and fianl year graduate student from India. I like writing full stack applications, I also sometimes contribute to Open Source.
+I’m [**Sharan**], a software developer and fianl year graduate student from India. I like writing full stack applications, I also sometimes contribute to Open Source.
 
 ---
 
